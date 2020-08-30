@@ -1,0 +1,6 @@
+[submodule "lib/custom-log"]
+	path = lib/custom-log
+	url = https://github.com/AnasMubarakYasin/custom-log.git
+[submodule "lib/custom-emitter"]
+	path = lib/custom-emitter
+	url = https://github.com/AnasMubarakYasin/custom-emitter.git
